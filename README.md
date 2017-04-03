@@ -6,20 +6,20 @@ In this tutorial I will create a custom UI with swift for iOS. I decided to crea
 
 When you finish this tutorial, your application will look like as shown in the image. You can also download the source from <a href="http://github.com/fsonmezay/ios-custom-view" target="blank">my github repository</a>
 <div class="post-image">
-  <img src="/images/ios-custom-views-final.jpg" title="Final Result" height="250" />
+  <img src="http://ferdisonmezay.com/images/ios-custom-views-final.jpg" title="Final Result" height="250" />
 </div>
 
 ### Development
 Let's start with a `Single View Application` as follows.
 
 <div class="post-image">
-<img src="/images/ios-custom-views-create-project.jpg" title="Create Project" />
+<img src="http://ferdisonmezay.com/images/ios-custom-views-create-project.jpg" title="Create Project" />
 </div>
 
 After your project is created we need to add our background and profile images into the `Assets.xcassets` folder. You can select the folder and just drag & drop the files you want to use as profile image and background image. I have named  those image files as `profile` and `background`
 
 <div class="post-image">
-<img src="/images/ios-custom-views-images.jpg" title="Image Files" />
+<img src="http://ferdisonmezay.com/images/ios-custom-views-images.jpg" title="Image Files" />
 </div>
 
 Now we need to create a new `Cocoa Touch Class` for our custom view as follows.
@@ -29,7 +29,7 @@ In the second popup, make sure that `UIView` is selected at Subclass section. I'
 
 
 <div class="post-image">
-<img src="/images/ios-custom-views-create-class.jpg" title="Custom View Class" />
+<img src="http://ferdisonmezay.com/images/ios-custom-views-create-class.jpg" title="Custom View Class" />
 </div>
 
 
